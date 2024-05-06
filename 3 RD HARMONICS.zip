@@ -1,7 +1,0 @@
-In this file I have compiled my findings on electrical field distribution on a water droplet coated insulator due to different amount of harmonics in power.
-The insulator is standard grooved disc type with single disc to maintain simplicity.
-From the electric field distribution we can directly understand what is the electrical stress zones for a disc insulator most commonly used in our power system and accordingly
-design it for better performance. 
-Harmonics cause mechanical stress, vibrations---when this factors work in resoanant condition the insulator structure faces fatal amount of vibrations
-High-frequency components of harmonics can cause corona discharge and partial discharge activity on the surface of the insulators. 
-Corona discharge can degrade the surface of the insulators over time, leading to increased leakage current and eventually flashover.
